@@ -1,0 +1,61 @@
+2025-04-16 00:46:15,514 - unkown - INFO - CS432 API Startup
+2025-04-16 00:47:46,051 - unkown - INFO - CS432 API Startup
+2025-04-16 00:48:08,570 - unkown - INFO - CS432 API Startup
+2025-04-16 00:48:09,204 - unkown - INFO - CS432 API Startup
+2025-04-16 00:49:10,702 - unkown - INFO - Request received at LOCAL /login endpoint
+2025-04-16 00:49:10,704 - unkown - WARNING - Local Login attempt missing 'user' or 'password'.
+2025-04-16 00:49:28,241 - unkown - INFO - Request received at LOCAL /login endpoint
+2025-04-16 00:49:28,244 - unkown - WARNING - Local Login attempt missing 'user' or 'password'.
+2025-04-16 00:49:50,752 - unkown - INFO - Request received at LOCAL /login endpoint
+2025-04-16 00:49:51,305 - unkown - INFO - Password matched (Plain Text) for MemberID 2029.
+2025-04-16 00:49:51,310 - unkown - INFO - Credentials valid for MemberID 2029. Role: admin. Generating local JWT.
+2025-04-16 00:49:51,322 - unkown - INFO - Local JWT generated for MemberID 2029.
+2025-04-16 00:51:10,469 - unkown - INFO - Token validated via decorator for user ID: 2029, Role: admin
+2025-04-16 00:51:10,471 - unkown - INFO - Request: /admin/add_member by user ID: 2029, Role: admin
+2025-04-16 00:51:10,473 - unkown - INFO - Admin user 2029 authorized. Adding member.
+2025-04-16 00:51:10,519 - unkown - INFO - Executed INSERT members for 'adm@123'.
+2025-04-16 00:51:10,520 - unkown - INFO - New member ID: 24210146
+2025-04-16 00:51:10,525 - unkown - INFO - Executed INSERT Login for MemberID 24210146.
+2025-04-16 00:51:10,558 - unkown - INFO - DB transaction committed for new member 24210146.
+2025-04-16 01:03:46,945 - unkown - INFO - CS432 API Startup
+2025-04-16 01:05:50,880 - unkown - INFO - CS432 API Startup
+2025-04-16 01:10:48,831 - unkown - INFO - CS432 API Startup
+2025-04-16 01:14:01,249 - unkown - INFO - CS432 API Startup
+2025-04-16 01:19:10,740 - unkown - INFO - CS432 API Startup
+2025-04-16 01:19:11,048 - unkown - INFO - CS432 API Startup
+2025-04-16 01:20:12,736 - unkown - INFO - CS432 API Startup
+2025-04-16 01:52:19,311 - unkown - INFO - CS432 API Startup
+2025-04-16 01:57:26,832 - unkown - INFO - CS432 API Startup
+2025-04-16 01:57:27,140 - unkown - INFO - CS432 API Startup
+2025-04-16 01:59:26,821 - unkown - INFO - CS432 API Startup
+2025-04-16 01:59:27,100 - unkown - INFO - CS432 API Startup
+2025-04-16 03:25:51,102 - unkown - INFO - CS432 API Startup
+2025-04-16 03:25:51,535 - unkown - INFO - CS432 API Startup
+2025-04-16 03:26:10,673 - unkown - INFO - CS432 API Startup
+2025-04-16 03:26:11,305 - unkown - INFO - CS432 API Startup
+2025-04-16 03:31:31,398 - unkown - WARNING - Expired authentication token
+2025-04-16 03:31:52,917 - unkown - ERROR - Request parsing failed: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-16 03:32:01,300 - unkown - WARNING - Incomplete login credentials received
+2025-04-16 03:44:19,483 - unkown - WARNING - Incomplete login credentials received
+2025-04-16 03:50:33,249 - unkown - INFO - CS432 API Startup
+2025-04-16 03:50:33,309 - unkown - INFO - CS432 API Startup
+2025-04-16 03:50:33,563 - unkown - INFO - CS432 API Startup
+2025-04-16 03:52:26,058 - unkown - INFO - Successfully connected to CIMS database
+2025-04-16 03:52:26,068 - unkown - INFO - Successful login for user: 2029
+2025-04-16 03:55:47,093 - unkown - INFO - CS432 API Startup
+2025-04-16 03:55:47,093 - unkown - INFO - CS432 API Startup
+2025-04-16 03:55:47,143 - unkown - INFO - CS432 API Startup
+2025-04-16 03:55:56,943 - unkown - INFO - CS432 API Startup
+2025-04-16 03:55:56,943 - unkown - INFO - CS432 API Startup
+2025-04-16 03:55:56,969 - unkown - INFO - CS432 API Startup
+2025-04-16 03:56:26,793 - unkown - WARNING - Invalid authentication token provided
+2025-04-16 03:58:15,262 - unkown - INFO - Successfully connected to CIMS database
+2025-04-16 03:58:15,274 - unkown - INFO - Successful login for user: 2029
+2025-04-16 03:59:08,035 - unkown - INFO - Request: /admin/delete_member/2077 by Admin ID: 2029
+2025-04-16 03:59:08,168 - unkown - INFO - Successfully connected to CIMS database
+2025-04-16 03:59:08,188 - unkown - INFO - MemberID 2077 found in 1 group mappings.
+2025-04-16 03:59:08,190 - unkown - INFO - MemberID 2077 has group mappings. Deleting mapping for group '7'.
+2025-04-16 03:59:08,199 - unkown - INFO - Deleted 1 mapping(s) for MemberID 2077 and GroupID 7.
+2025-04-16 03:59:08,233 - unkown - INFO - DB transaction committed for deletion task regarding MemberID 2077.
+2025-04-16 04:03:52,774 - unkown - INFO - Successfully connected to CIMS database
+2025-04-16 04:03:52,783 - unkown - INFO - Successful login for user: 2078
